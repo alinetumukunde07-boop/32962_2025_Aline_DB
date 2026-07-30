@@ -1,0 +1,11 @@
+# Phase 4: Database Creation & User Configuration
+
+## Overview
+This phase establishes the target database schema `32962_2025_Aline_DB` in Oracle Database, following strict project naming rules.
+
+## Executed Script
+- `01_create_user.sql`: Creates the database user and grants necessary privileges (`CONNECT`, `RESOURCE`, `CREATE VIEW`, `CREATE PROCEDURE`, `CREATE TRIGGER`).
+
+## Included Screenshots
+- `oem_user_creation.png`: Screenshot showing user creation confirmation in Oracle Enterprise Manager / SQL Developer.
+- `connection_setup.png`: Screenshot showing verified database connectivity.
